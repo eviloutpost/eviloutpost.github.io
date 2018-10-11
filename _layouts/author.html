@@ -2,12 +2,17 @@
 layout: default
 ---
 <style> img { float: left; } </style>
-<img src="{{ page.image }}" style="width:128px; height:128px; margin-right:16px; margin-top:16px; margin-bottom:4px;">
+<img src="{{ page.image }}" style="width:128px; height:128px; margin-right:16px; margin-top:8px; margin-bottom:8px;">
 
 <h1>{{ page.name }}</h1>
-<h2>{{ page.position }}</h2>
+<h2>{{ page.pseudonym }}</h2>
+<h3>{{ page.position }}</h3>
+
+<br>
 
 {{ content }}
+
+<br>
 
 <h2>Posts</h2>
 <ul>
