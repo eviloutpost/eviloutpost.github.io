@@ -6,7 +6,8 @@ layout: default
   <div class="post-info">
     <span>Written by</span>
     {% if page.author %}
-        {{ page.author }}
+        {% assign author = site.authors | where: 'name', page.author | first %}
+        <a href="{{ author.url }}">{{ author.name }}</a>
     {% else %}
         {{ site.author.name }}
     {% endif %}

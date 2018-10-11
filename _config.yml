@@ -1,8 +1,7 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/"
-url:            "https://chesterhow.github.io"
+url:            "https://eviloutpost.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -12,6 +11,11 @@ author:
   name:         Chester How
   url:          https://chester.how
   email:        chesterhow@gmail.com
+
+# Authors, as shown in Jekyill tutorial
+collections:
+  authors:
+    output: true
 
 # Build settings
 markdown:       kramdown
