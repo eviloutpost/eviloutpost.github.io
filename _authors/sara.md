@@ -1,6 +1,6 @@
 ---
 name: Sara Carusi
-pseudonym: Qualcosa
+nickname: Qualcosa
 position: Scrittrice 
 image: sara.png
 layout: author

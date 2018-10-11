@@ -1,6 +1,6 @@
 ---
 name: Simone Cipriani
-pseudonym: gesucca
+nickname: gesucca
 position: Founder
 image: gesucca.png
 layout: author
