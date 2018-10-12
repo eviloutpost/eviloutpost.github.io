@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<style> img { float: left; } </style>
-<img src="{{ page.image }}" style="width:128px; height:128px; margin-right:16px; margin-top:8px; margin-bottom:8px;">
+<img src="{{ page.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:8px; margin-bottom:8px;">
 
 <h1>{{ page.name }}</h1>
 <h2>{{ page.nickname }}</h2>
@@ -11,6 +10,12 @@ layout: default
 <br>
 
 {{ content }}
+
+<br>
+
+{% if page.facebook %}
+<a href="{{ page.facebook }}"><img src="../assets/fb-icon.png" alt="facebook" style="width:32px; height:32px;"></a>
+{% endif %}
 
 <br>
 
