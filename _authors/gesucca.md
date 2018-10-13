@@ -3,6 +3,7 @@ name: Simone Cipriani
 nickname: gesucca
 position: Founder
 facebook: https://www.google.it
+instagram: https://www.google.it
 image: gesucca.png
 layout: author
 ---

@@ -4,8 +4,7 @@ layout: default
 <img src="{{ page.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:8px; margin-bottom:8px;">
 
 <h1>{{ page.name }}</h1>
-<h2>{{ page.nickname }}</h2>
-<h3>{{ page.position }}</h3>
+<h3>{{ page.nickname }} - {{ page.position }}</h3>
 
 <br>
 
@@ -13,8 +12,19 @@ layout: default
 
 <br>
 
+<h2>Socials</h2>
+
 {% if page.facebook %}
-<a href="{{ page.facebook }}"><img src="../assets/fb-icon.png" alt="facebook" style="width:32px; height:32px;"></a>
+  <a href="{{ page.facebook }}"><img src="../assets/fb-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+{% endif %}
+{% if page.instagram %}
+  <a href="{{ page.instagram }}"><img src="../assets/in-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+{% endif %}
+{% if page.twitter %}
+  <a href="{{ page.twitter }}"><img src="../assets/tw-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+{% endif %}
+{% if page.youtube %}
+  <a href="{{ page.youtube }}"><img src="../assets/yt-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
 {% endif %}
 
 <br>
