@@ -1,16 +1,16 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Avamposto del Male
+description:    "Il Male ha un nuovo scopo."
 url:            "https://eviloutpost.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
-# Author
+# Site info
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         EvilOutpost
+  url:          https://eviloutpost.github.io
+  email:        eviloutpost@gmail.com
 
 # Authors, as shown in Jekyill tutorial
 collections:
