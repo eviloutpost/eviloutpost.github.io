@@ -1,10 +1,16 @@
 ---
 name: Simone Cipriani
 nickname: gesucca
-position: Founder
-facebook: https://www.google.it
-instagram: https://www.google.it
+position: Imperatore e Primo Araldo del Male
+facebook: https://www.facebook.com/gesucca/
+instagram: https://www.instagram.com/gesucca/
+youtube: https://www.youtube.com/channel/UCVn26_2xCJDngLicWKxQRmw
 image: gesucca.png
 layout: author
 ---
-Simone is an avid fruit grower based in the south of France.
+
+Nasce a Firenze nel '92 e vende subito l'anima al Diavolo, perché fresche valgono di più.
+
+Dopo aver corrotto tutto il corruttibile, assume l'identità di *{{ page.nickname }}* e comincia a divulgare il suo Male, nella speranza di essere redento.
+
+Avido lettore e generoso [scrittore](https://gesuccascrittore.wordpress.com/), [musicista](https://soundcloud.com/user-326240122) e [programmatore](https://github.com/gesucca), *{{ page.nickname }}* non sta mai fermo un secondo. Dice di abbracciare il Vuoto come filosofia di vita, ma in realtà ne ha terrore e lo riempie con tutto ciò che trova.
