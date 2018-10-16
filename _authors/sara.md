@@ -1,11 +1,16 @@
 ---
 name: Sara Carusi
+gender: a
 nickname: aarde
-position: Concubina dell'Imperatore del Male 
+description: la terra che ti sotterra
+position: Araldo del Male e Concubina dell'Imperatore
 instagram: https://www.instagram.com/facilis_descensusaverni/
 image: sara.png
 layout: author
 ---
-Nasce a Firenze nel 1992, a 14 anni conosce Gesucca e la sua vità non sarà più la stessa.
-Diplomata al Liceo Tecnico per Geometri, successivamente abilitata, è una Geometra squattrinata e puggile *coipugninellemani* a tempo perso. 
-Appasionata di cucina e di Gesucca. 
+
+Geometra squattrinata per lavoro, nel tempo libero ha *i pugni nelle mani*.
+ 
+Viene fuori dall'ottima annata del '92, e a quattordici anni la sua vita viene resa bizzarra dalla comparsa del Malvagio.
+
+Ha un passato oscuro da *biuti bloggher* ed è appassionata di cucina.
