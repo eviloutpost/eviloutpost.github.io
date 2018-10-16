@@ -4,15 +4,13 @@ layout: default
 <img src="img/{{ page.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:8px; margin-bottom:8px;">
 
 <h1>{{ page.name }}</h1>
-<h3>{{ page.nickname }} - {{ page.position }}</h3>
+<h4>{{ page.nickname }} - {{ page.position }}</h4>
 
 <br>
 
 {{ content }}
 
-<br>
-
-<h2>Socials</h2>
+<h2>Social</h2>
 {% if page.facebook %}
   <a href="{{ page.facebook }}"><img src="../assets/fb-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
 {% endif %}
@@ -26,9 +24,7 @@ layout: default
   <a href="{{ page.youtube }}"><img src="../assets/yt-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
 {% endif %}
 
-<br>
-
-<h2>Posts</h2>
+<h2>Post</h2>
 <ul>
   {% assign filtered_posts = site.posts | where: 'author', page.nickname %}
   {% for post in filtered_posts %}
