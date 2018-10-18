@@ -24,7 +24,7 @@ Madre e figlia si scambiarono un lungo, intenso sguardo. Non ci fu bisogno di pa
 
 Lui non rispose. La sua espressione ostinata sembrava scolpita nella pietra.
 
-«Tu ti senti superiore a noi» proseguì lei, «perché credi di essere in grado di apprezzare la differenza fra questa *Costosissima Acqua* e il banale liquido di cui ci nutriamo noi poveri d'animo.»
+«Tu ti senti superiore a noi» proseguì lei, «perché credi di essere in grado di apprezzare la differenza fra questa *Costosissima Acqua* e il banale liquido di cui ci nutriamo noi poveri d'animo. Ma ti sbagli: tu non apprezzi quell'acqua, tu *sei* quell'acqua!»
 
 Non arrivò ancora risposta, ma la donna proseguì imperterrita: non aveva posto domande.
 
@@ -36,16 +36,12 @@ L'uomo prese la bottiglia con cerimoniale lentezza. In religioso silenzio, la st
 
 Un ghigno altezzoso deformò la faccia dell'uomo. «A che vi gioverebbe? Non capireste mai.»
 
-La donna rise. Una risata lunga, intensa, ma molto amara.
+La donna rise, una risata lunga e intensa. «Certo che no», fece alla fine, amaramente.
 
-La piccola Ester capì.
-
-<br>
+La piccola Ester capì. Suo padre non poteva essere salvato, ma poteva comunque essere... *sostituito*.
 
 ***
 
-<br>
-
-In un angolo remoto del mondo, nascosta nell'oscurità del suo covo, una donna bionda dai grandi piedi permise a un malvagio sorriso di dipingersi sul suo volto.
+In un angolo remoto del mondo, nascosta nell'oscurità del suo covo, una donna bionda dai grandi piedi permise a un malvagio sorriso di dipingersi sul suo volto. Presto li suo liquido avrebbe raggiunto ogni andratto del globo, infettanto ogni persona di rilievo.
 
 Stava andando tutto secondo i piani.
