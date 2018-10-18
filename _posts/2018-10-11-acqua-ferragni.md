@@ -40,8 +40,8 @@ La donna rise, una risata lunga e intensa. «Certo che no», fece alla fine, ama
 
 La piccola Ester capì. Suo padre non poteva essere salvato, ma poteva comunque essere... *sostituito*.
 
-***
+<center><b>&ast; &ast; &ast;</b></center>
 
-In un angolo remoto del mondo, nascosta nell'oscurità del suo covo, una donna bionda dai grandi piedi permise a un malvagio sorriso di dipingersi sul suo volto. Presto li suo liquido avrebbe raggiunto ogni andratto del globo, infettanto ogni persona di rilievo.
+In un angolo remoto del mondo, nascosta nell'oscurità del suo covo, una donna bionda dai grandi piedi permise a un malvagio sorriso di dipingersi sul suo volto. Presto il suo liquido avrebbe raggiunto ogni anfratto del globo, infettando ogni persona di rilievo.
 
 Stava andando tutto secondo i piani.
