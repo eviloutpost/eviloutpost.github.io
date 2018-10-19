@@ -33,3 +33,7 @@ Meglio not{{ page.gender }} come <i><b>{{ page.nickname }}</b>, {{ page.descript
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+<div class="pagination">
+  <a href="{{ '/authors' | prepend: site.baseurl }}" class="top">Indietro</a>
+</div>
