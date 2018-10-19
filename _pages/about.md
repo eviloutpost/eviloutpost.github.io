@@ -5,16 +5,14 @@ permalink: /about
 ---
 
 <link rel="stylesheet" type="text/css" href="../_pages/quote.css">
-
 > ...'na visione sprovveduta <br>
-> mi son fatto della vita <br>
+> mi so' fatto della vita <br>
 > ma una cosa l'ho capita <br>
-> figlio mio, mo' te la dico <br>
+> figlio mio, mo' te la dico... <br>
 > <br>
-> sient' a me, sient' a papà - non va bene se le cose vanno bene <br>
-> è meglio male
-<div class="author">Mariottide (Marcello Macchia), <cite>Meglio male</cite> </div>
-
+> Sient'm a me, sient' a papà - non va bene se le cose vanno bene: <br>
+> **è meglio male!**
+<div class="author">Mariottide, <cite>Meglio male</cite> </div>
 <br>
 
 Perché un avamposto? Perché *combattere* per Il Male&trade;?
