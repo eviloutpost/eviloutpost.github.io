@@ -23,4 +23,4 @@ Qui prolifera Il Peccato&trade; e fermenta La Perversione&trade;.
 
 Qui si evolve La Follia&trade;.
 
-Vi trovate all'**Avamposto del Male**&trade;: benvenuti.
+Vi trovate all'**Avamposto del Male**: benvenuti.

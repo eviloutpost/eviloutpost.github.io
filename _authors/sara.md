@@ -3,7 +3,7 @@ name: Sara Carusi
 gender: a
 nickname: aarde
 description: la terra che ti sotterra
-position: Araldo del Male&trade;
+position: Araldo del Male
 instagram: https://www.instagram.com/facilis_descensusaverni/
 image: sara.png
 layout: author
@@ -11,6 +11,6 @@ layout: author
 
 Geometra squattrinata per lavoro, nel tempo libero ha *i pugni nelle mani*.
  
-Viene fuori dall'ottima annata del '92, e a quattordici anni la sua vita viene resa bizzarra dalla comparsa del malvagio Imperatore del Male&trade;.
+Viene fuori dall'ottima annata del '92, e a quattordici anni la sua vita viene resa bizzarra dalla comparsa di una incarnazione terrena de Il Male&trade;: il perfido Imperatore. 
 
 Ha un passato oscuro da *biuti bloggher* ed è appassionata di cucina.

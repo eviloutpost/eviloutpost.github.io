@@ -3,7 +3,7 @@ name: Simone Cipriani
 gender: o
 nickname: gesucca
 description: l'eresia che porta allegria
-position: Imperatore e Primo Araldo del Male&trade;
+position: Imperatore e Primo Araldo del Male
 facebook: https://www.facebook.com/gesucca/
 instagram: https://www.instagram.com/gesucca/
 youtube: https://www.youtube.com/channel/UCVn26_2xCJDngLicWKxQRmw
