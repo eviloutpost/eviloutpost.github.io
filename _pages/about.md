@@ -1,8 +1,29 @@
 ---
-layout: titled
+layout: default
 title: "Il Male&trade;"
 permalink: /about
 ---
+
+![extended-logo](../assets/eviloutpost.png)
+
+<br>
+
+<!-- Not sure if this should be factored out -->
+<style>
+    p {text-align: center;}
+</style>
+
+Questo è un luogo di *perdizione*.
+
+Una culla di *piaceri proibiti*, dolcemente coccolati dagli *animi più neri*; un cupo bacino dove, rassegnato, il fiume del *disagio* arresta il suo corso. 
+
+Qui prolifera il *peccato* e fermenta la *perversione*. 
+
+Qui si evolve la *follia*;.
+
+Qui si pratica **Il Male&trade;**: benvenuti.
+
+<br>
 
 > ...'na visione sprovveduta <br>
 > mi so' fatto della vita <br>
@@ -11,15 +32,6 @@ permalink: /about
 > <br>
 > Sient'm a me, sient' a papà - non va bene se le cose vanno bene: <br>
 > **è meglio male!**
-<div class="author">Mariottide, <cite>Meglio male</cite> </div>
+<div class="author">Mariottide, <cite>Meglio Male</cite> </div>
 <br>
 
-Questo è un luogo di perdizione.
-
-Una culla di piaceri proibiti, dolcemente coccolati dagli animi più neri; un cupo bacino dove, rassegnato, il fiume del disagio arresta il suo corso. 
-
-Qui prolifera Il Peccato&trade; e fermenta La Perversione&trade;. 
-
-Qui si evolve La Follia&trade;.
-
-Vi trovate all'**Avamposto del Male**: benvenuti.
