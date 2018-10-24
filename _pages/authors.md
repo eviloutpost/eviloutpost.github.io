@@ -11,11 +11,15 @@ permalink: /authors/
 
 <ul>
   {% for author in site.authors %}
-    <li>
-      <h2><a href="{{ author.url }}">{{ author.name }}</a></h2>
-      <h3>{{ author.position }}</h3>
-      <p>{{ author.content | markdownify }}</p>
-    </li>
     <br>
+    <img src="img/{{ author.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:32px; margin-bottom:8px;">
+    <h3 style="display: flex;"><a href="{{ author.url }}">{{ author.name }}</a></h3>
+    <h4>{{ author.position }}</h4>
+    {% assign truncatedContent = '' %}
+    {% assign paragraphs = author.content | split:'</p>' %}
+    {% for paragraph in paragraphs limit:1 %}
+      {{ truncatedContent | append: paragraph }}
+      {{ truncatedContent | append: '</p>' }}
+    {% endfor %}
   {% endfor %}
 </ul>
