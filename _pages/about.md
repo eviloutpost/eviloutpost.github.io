@@ -1,10 +1,9 @@
 ---
-layout: post
+layout: titled
 title: "Il Male&trade;"
 permalink: /about
 ---
 
-<link rel="stylesheet" type="text/css" href="../_pages/quote.css">
 > ...'na visione sprovveduta <br>
 > mi so' fatto della vita <br>
 > ma una cosa l'ho capita <br>
