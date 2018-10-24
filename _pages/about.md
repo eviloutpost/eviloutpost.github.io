@@ -19,7 +19,7 @@ Una culla di *piaceri proibiti*, dolcemente coccolati dagli *animi più neri*; u
 
 Qui prolifera il *peccato* e fermenta la *perversione*. 
 
-Qui si evolve la *follia*;.
+Qui si evolve la *follia*.
 
 Qui si pratica **Il Male&trade;**: benvenuti.
 
