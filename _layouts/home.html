@@ -25,9 +25,13 @@ layout: default
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 
-        <p>
-          {{ post.content | strip_html | truncatewords: 30 }}
-        </p>
+        <div style="text-align: justify;">
+          {% assign truncatedContent = '' %}
+          {% assign paragraphs = post.content | newline_to_br | strip_newlines | split:'<br />' %}
+          {% for paragraph in paragraphs limit: post.display %}
+            {{ truncatedContent | append: paragraph }}
+          {% endfor %}
+        </div>
 
       </div>
     </a>

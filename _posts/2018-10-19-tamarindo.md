@@ -2,6 +2,7 @@
 layout: post
 title:  "Cronache del Male - Vol.1"
 author: "aarde"
+display: 8
 ---
 
 «*Aieeeeee!*»
@@ -10,9 +11,7 @@ author: "aarde"
 
 «*Hazzaiaiaieiaaaa!!*»
 
-Ulrico cadde dal letto e si rialzò, forte dell’urlo «*’io porco! Checcazzosuccede?!*»
-
-Nel suo bagno c'era qualcuno che gridava, e che non accennava a smettere.
+Ulrico cadde dal letto e si rialzò, forte dell’urlo «*’io porco! Checcazzosuccede?!*». Nel suo bagno c'era qualcuno che gridava, e che non accennava a smettere.
 
 «Chi diavolo è?!» intimò l’uomo, spalancando la porta della camera.
 

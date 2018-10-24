@@ -2,6 +2,7 @@
 layout: post
 title:  "Tutto secondo i piani"
 author: "gesucca"
+display: 1
 ---
 
 Siamo fatti d'acqua. Non di tanta quanta crede un certo Ministro, ma comunque lo siamo. La piccola Ester lo sapeva già, lo aveva imparato a scuola. Quello che non le era mai venuto in mente era che, in effetti, noi siamo fatti *proprio* dell'acqua che beviamo; se bevi tanta acqua cattiva, diventi cattivo.
