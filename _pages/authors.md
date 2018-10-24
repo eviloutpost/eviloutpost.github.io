@@ -1,20 +1,13 @@
 ---
-layout: default
-title: Autori
+layout: titled
+title: "Esercito del Male"
 permalink: /authors/
 ---
-<link rel="stylesheet" type="text/css" href="../_pages/quote.css">
-
-<h1>Esercito del Male</h1>
 
 <blockquote class="quote">
   <p>Non c'è scusa all'essere cattivi, ma v'è un certo merito nel sapersi tali; fare il male per stupidità è il più irrimediabile dei vizi.</p>
 </blockquote>
 <div class="author">Charles Baudelaire, <cite>La moneta falsa</cite> </div>
-
-<style>
-  p {text-align: justify;}
-</style>
 
 <ul>
   {% for author in site.authors %}
