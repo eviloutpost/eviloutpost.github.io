@@ -10,6 +10,21 @@ Meglio not{{ page.gender }} come <i><b>{{ page.nickname }}</b>, {{ page.descript
 
 <br><br>
 
+<div style="text-align: center">
+  {% if page.facebook %}
+    <a href="{{ page.facebook }}"><img src="../assets/fb-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+  {% endif %}
+  {% if page.instagram %}
+    <a href="{{ page.instagram }}"><img src="../assets/in-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+  {% endif %}
+  {% if page.twitter %}
+    <a href="{{ page.twitter }}"><img src="../assets/tw-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+  {% endif %}
+  {% if page.youtube %}
+    <a href="{{ page.youtube }}"><img src="../assets/yt-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+  {% endif %}
+</div>
+
 <style>
   p {text-align: justify;}
 </style>
@@ -17,19 +32,7 @@ Meglio not{{ page.gender }} come <i><b>{{ page.nickname }}</b>, {{ page.descript
 {{ content }}
 </p>
 
-<h2>Social</h2>
-{% if page.facebook %}
-  <a href="{{ page.facebook }}"><img src="../assets/fb-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
-{% endif %}
-{% if page.instagram %}
-  <a href="{{ page.instagram }}"><img src="../assets/in-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
-{% endif %}
-{% if page.twitter %}
-  <a href="{{ page.twitter }}"><img src="../assets/tw-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
-{% endif %}
-{% if page.youtube %}
-  <a href="{{ page.youtube }}"><img src="../assets/yt-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
-{% endif %}
+<br>
 
 <h2>Post</h2>
 <ul>
