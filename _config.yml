@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jekyll-sitemap
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
