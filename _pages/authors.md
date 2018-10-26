@@ -11,6 +11,7 @@ permalink: /authors/
 
 <ul>
   {% for author in site.authors %}
+    {% unless author.anonymous %}
     <br>
     <img src="img/{{ author.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:32px; margin-bottom:8px;">
     <h3 style="display: flex;"><a href="{{ author.url }}">{{ author.name }}</a></h3>
@@ -21,5 +22,6 @@ permalink: /authors/
       {{ truncatedContent | append: paragraph }}
       {{ truncatedContent | append: '</p>' }}
     {% endfor %}
+    {% endunless %}
   {% endfor %}
 </ul>

@@ -6,7 +6,9 @@ layout: default
 <h1>{{ page.name }}</h1>
 <h3>{{ page.position }}</h3>
 
-Meglio not{{ page.gender }} come <i><b>{{ page.nickname }}</b>, {{ page.description }}.</i>
+{% unless page.anonymous %}
+  Meglio not{{ page.gender }} come <i><b>{{ page.nickname }}</b>, {{ page.description }}.</i>
+{% endunless %}
 
 <br><br>
 
