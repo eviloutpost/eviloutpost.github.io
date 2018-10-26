@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Inno del male?"
+title:  "Il Tramonto"
 author: "gesucca"
-display: 2
+display: 1
 ---
 
-<!-- TODO: add initial caption and format (oh, and title and date) -->
-In vulputate velit esse molestie consequat vel illum dolore eu feugiat nulla facilisis at vero eros. Gothica quam nunc putamus parum claram anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta. Iriure dolor in hendrerit et accumsan: et iusto odio.
+Un uomo scrutava l'orizzonte, beandosi della visione del tramonto. L'immagine del giorno che muore era dolorosa, ma se la infliuggeva volontariamente; era il suo castigo, lo meritava.
 
-<br>
+Combattendo le lacrime, annunciava al cielo la sua verità:
 
 <div style="font-style: italic;" >
 Avviluppati da gelide spire <br/>
@@ -40,18 +39,10 @@ Uomini <br/>
 Ovvia la scelta fra il bene ed Il Male&trade; <br/>
 Deboli <br/>
 Niente trascende, il confine è mentale <br/>
-<br>
-Inebriati, corrotti, assetati <br/>
-Fetidi schiavi della dopamina <br/>
-Dal nostro tossico amore guidati <br/>
-Ora il Potere è la nostra eroina <br/>
-<br>
-Stupidi illusi, la guerra è persa <br/>
-Siete un esercito di nullità <br/>
-Vincerà sempre la gente di merda <br/>
-Se guerra deve essere guerra sarà <br/>
 </div>
 
 <br>
 
-Iriure dolor in hendrerit et accumsan: et iusto odio.
+Era solo un bambino strano, ormai diventato un uomo assetato di potere.
+
+Non aveva saggezza: **aveva ragione**.
