@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Il cervo Guglielmo"
+title:  "Il povero Guglielmo"
 author: "giudeo"
 display: 1
 ---
