@@ -5,7 +5,7 @@ author: "gesucca"
 display: 3
 ---
 
-Era la notte di Halloween. Per il povero Sernesio, quella poteva essere la sua ultima occasione. Era molto agitato. e fissava la sua immagine riflessa nello specchio, ripetendo le sue affermazioni.
+Era la sera del 31 Ottobre. Per il povero Sernesio, quella poteva essere la sua ultima occasione. Era molto agitato. e fissava la sua immagine riflessa nello specchio, ripetendo le sue affermazioni.
 
 *«Non perderò mai di vista l’orizzonte, ma guarderò dove metto i piedi.»*
 
