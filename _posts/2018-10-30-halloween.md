@@ -5,13 +5,13 @@ author: "gesucca"
 display: 3
 ---
 
-Era la sera del 31 Ottobre. Per il povero Sernesio, quella poteva essere la sua ultima occasione. Era molto agitato. e fissava la sua immagine riflessa nello specchio, ripetendo le sue affermazioni.
+Era la sera del 31 Ottobre. Per il povero Sernesio, quella poteva essere la sua ultima occasione. Era molto agitato; fissava la sua immagine riflessa nello specchio, ripetendo le sue affermazioni.
 
 «Non perderò mai di vista l’orizzonte, ma guarderò dove metto i piedi.»
 
 Vide una lacrima di rabbia scendere sulla sua guancia. Non avrebbe permesso al mondo di sconfiggerlo di nuovo.
 
-«Preferirò l'azione all'esitazione, soffermandomi quando necessario.»
+«Preferirò l'azione all'esitazione, soffermandomi solo quando necessario.»
 
 Un'accesa determinazione lo pervase.
 
@@ -35,9 +35,9 @@ Non avrebbe più fallito. *Mai più.*
 
 Sernesio concesse un ultimo sguardo alla sua figura riflessa. Si sentiva pronto.
 
-Aveva passato un anno intero ad allenarsi duramente; giorni e notti a studiare tattiche e sotterfugi, a provare maschere e costumi, a bilanciare la credibilità e l'adeguatezza della minaccia. Non si sarebbe risparmiato: il falimento non era contemplabile. 
+Aveva passato un anno intero ad allenarsi duramente: giorni e notti a studiare tattiche e sotterfugi, a provare maschere e costumi, a bilanciare la credibilità e l'adeguatezza della minaccia. Non si sarebbe risparmiato; il fallimento non era contemplabile. 
 
-Il prezioso bottino che si nascondeva nelle case del vicinato, questa volta sarebbe stato *tutto suo*.
+Il dolce bottino che si nascondeva nelle case del vicinato, questa volta, sarebbe stato *tutto suo*.
 
 Sernesio indossò la sua maschera, carico come non mai.
 
