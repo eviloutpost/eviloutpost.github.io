@@ -5,7 +5,7 @@ author: "giudeo"
 display: 1
 ---
 
-Immerso in una fredda mattina autunnale, Guglielmo passeggiava su un prato umido. Leggermente assonato ma già con l’occhio vigile, squadrava di tanto in tanto gli arbusti lì intorno col suo tipico fare timoroso; non poteva avere idea che gli eventi avviati quel giorno avrebbero avuto conseguenze impossibili da vaticinare persino per il Mago Otelma. 
+Immerso in una fredda mattina autunnale, Guglielmo passeggiava su un prato umido. Leggermente assonnato ma già con l’occhio vigile, squadrava di tanto in tanto gli arbusti lì intorno col suo tipico far timoroso; non poteva avere idea che gli eventi avviati quel giorno avrebbero avuto conseguenze impossibili da vaticinare persino per il Mago Otelma. 
 
 Il suo sguardo era perso nel vuoto dell’orizzonte. 
 
