@@ -32,6 +32,6 @@ Qui si pratica **Il Male&trade;**: benvenuti.
 > <br>
 > Sient'm a me, sient' a papà - non va bene se le cose vanno bene: <br>
 > **è meglio male!**
-<div class="author">Mariottide, <cite>Meglio Male</cite> </div>
+<div class="author donthyphenate">Mariottide, <cite>Meglio Male</cite> </div>
 <br>
 

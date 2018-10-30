@@ -6,7 +6,7 @@ layout: default
   {% for post in paginator.posts %}
     <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
       <div>
-        <time datetime="{{ post.date }}" class="catalogue-time">{% assign m = post.date | date: "%-m" %} {{ post.date | date: "%-d" }}
+        <time class="donthyphenate" datetime="{{ post.date }}" class="catalogue-time">{% assign m = post.date | date: "%-m" %} {{ post.date | date: "%-d" }}
             {% case m %}
               {% when '1' %}Gennaio
               {% when '2' %}Febbraio
@@ -22,7 +22,7 @@ layout: default
               {% when '12' %}Dicembre
             {% endcase %}
           {{ post.date | date: "%Y" }}</time>
-        <h1 class="catalogue-title">{{ post.title }}</h1>
+        <h1 class="donthyphenate catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 
         <div style="text-align: justify;">

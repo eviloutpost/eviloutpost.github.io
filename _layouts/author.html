@@ -3,8 +3,8 @@ layout: default
 ---
 <img src="img/{{ page.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:8px; margin-bottom:8px;">
 
-<h1>{{ page.name }}</h1>
-<h3>{{ page.position }}</h3>
+<h1 class="donthyphenate">{{ page.name }}</h1>
+<h3 class="donthyphenate">{{ page.position }}</h3>
 
 {% unless page.anonymous %}
   Meglio not{{ page.gender }} come <i><b>{{ page.nickname }}</b>, {{ page.description }}.</i>
@@ -27,10 +27,7 @@ layout: default
   {% endif %}
 </div>
 
-<style>
-  p {text-align: justify;}
-</style>
-<p>
+<p style="text-align: justify;">
 {{ content }}
 </p>
 
