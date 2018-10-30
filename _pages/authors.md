@@ -14,8 +14,8 @@ permalink: /authors/
     {% unless author.anonymous %}
     <br>
     <img src="img/{{ author.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:32px; margin-bottom:8px;">
-    <h3 style="display: flex;"><a href="{{ author.url }}">{{ author.name }}</a></h3>
-    <h4>{{ author.position }}</h4>
+    <h3 class="donthyphenate" style="display: flex;"><a href="{{ author.url }}">{{ author.name }}</a></h3>
+    <h4 class="donthyphenate">{{ author.position }}</h4>
     {% assign truncatedContent = '' %}
     {% assign paragraphs = author.content | split:'</p>' %}
     {% for paragraph in paragraphs limit:1 %}
