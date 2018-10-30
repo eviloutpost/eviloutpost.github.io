@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="post">
-  <div class="donthyphenate" class="post-info">
+  <div class="donthyphenate post-info">
     <span>Scritto da</span>
     {% if page.author %}
       {% assign author = site.authors | where: 'nickname', page.author | first %}
@@ -36,7 +36,7 @@ layout: default
     </i>
   </div>
 
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h1 class="donthyphenate post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
 
   {{ content }}
