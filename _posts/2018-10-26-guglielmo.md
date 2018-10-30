@@ -31,4 +31,4 @@ Fu così che terminò la vita del povero Guglielmo.
 
 Tuttavia, la sua morte non fu vana: contribuì alla nascita di un Nuovo Mondo. Egli infatti era lì, il *23 Ottobre 2018 a Strasburgo*. Guglielmo, dall’alto della mano di uomo incravattato che indossava scarpe di pelle di cervo, impresse sui carteggi della vecchia egemonia un cruciale simbolo.
 
-**Una scarpa numero 43.**
+Una scarpa, numero 43.
