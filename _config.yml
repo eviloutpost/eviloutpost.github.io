@@ -16,6 +16,8 @@ author:
 collections:
   authors:
     output: true
+  works:
+    output: true
 
 # Build settings
 markdown:       kramdown
