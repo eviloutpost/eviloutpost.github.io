@@ -41,6 +41,17 @@ layout: default
   {% endfor %}
 </ul>
 
+{% if page.works %}
+  <br>
+  <h2>Opere</h2>
+  <ul>
+    {% assign filtered_works = site.works | where: 'author', page.nickname %}
+    {% for work in filtered_works %}
+      <li><a href="{{ work.url }}">{{ work.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
 <div class="pagination">
   <a href="{{ '/authors' | prepend: site.baseurl }}" class="top">Indietro</a>
 </div>

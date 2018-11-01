@@ -1,7 +1,6 @@
 ---
 layout: titled
 title: "Le Opere del Male"
-subtitle: "qualcosa qualcosa"
 permalink: /works
 ---
 
@@ -12,12 +11,11 @@ permalink: /works
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<ul>
-  {% for work in site.works %}
-    {% assign author = site.authors | where: 'nickname', work.author | first %}
-      <h2><a href="{{ work.url }}">{{ work.title }}</a></h2>
-      <i>Una creazione di <a href="{{ author.url }}">{{ author.name }}</a></i>
-      <p>{{ work.caption | markdownify }}</p>
-    <br>
-  {% endfor %}
-</ul>
+<p>
+{% for work in site.works %}
+  {% assign author = site.authors | where: 'nickname', work.author | first %}
+    <h2><a href="{{ work.url }}">{{ work.title }}</a></h2>
+    <i>Una creazione di <a href="{{ author.url }}">{{ author.name }}</a></i>
+    <p>{{ work.caption | markdownify }}</p>
+  <br>
+{% endfor %}

@@ -1,6 +1,7 @@
 ---
 name: Simone Cipriani
 gender: o
+works: aye
 nickname: gesucca
 description: l'eresia che porta allegria
 position: Imperatore e Primo Araldo del Male
