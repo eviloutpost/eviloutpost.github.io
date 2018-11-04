@@ -9,22 +9,6 @@ layout: titled
     {% unless chapter.layout == 'work' %}
       <a href="{{ chapter.url | prepend: site.baseurl }}" class="catalogue-item">
         <div>
-          <time datetime="{{ chapter.date }}" class="donthyphenate catalogue-time">{% assign m = chapter.date | date: "%-m" %} {{ chapter.date | date: "%-d" }}
-              {% case m %}
-                {% when '1' %}Gennaio
-                {% when '2' %}Febbraio
-                {% when '3' %}Marzo
-                {% when '4' %}Aprile
-                {% when '5' %}Maggio
-                {% when '6' %}Giugno
-                {% when '7' %}Luglio
-                {% when '8' %}Agosto
-                {% when '9' %}Settembre
-                {% when '10' %}Ottobre
-                {% when '11' %}Novembre
-                {% when '12' %}Dicembre
-              {% endcase %}
-            {{ chapter.date | date: "%Y" }}</time>
           <h1 class="donthyphenate catalogue-title">{{ chapter.title }}</h1>
           <div class="catalogue-line"></div>
   
@@ -40,7 +24,7 @@ layout: titled
       </a>
     {% endunless %}
     {% endfor %}
-  </div>
+    </div>
   
   <div class="pagination">
     {% if paginator.previous_page %}

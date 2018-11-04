@@ -45,7 +45,7 @@ layout: default
   <br>
   <h2>Opere</h2>
   <ul>
-    {% assign filtered_works = site.works | where: 'author', page.nickname %}
+    {% assign filtered_works = site.works | where: 'author', page.nickname | where: 'layout', 'work' %}
     {% for work in filtered_works %}
       <li><a href="{{ work.url }}">{{ work.title }}</a></li>
     {% endfor %}
