@@ -13,9 +13,11 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 <p>
 {% for work in site.works %}
-  {% assign author = site.authors | where: 'nickname', work.author | first %}
-    <h2><a href="{{ work.url }}">{{ work.title }}</a></h2>
-    <i>Una creazione di <a href="{{ author.url }}">{{ author.name }}</a></i>
-    <p>{{ work.caption | markdownify }}</p>
-  <br>
+  {% if work.layout == 'work' %}
+    {% assign author = site.authors | where: 'nickname', work.author | first %}
+      <h2><a href="{{ work.url }}">{{ work.title }}</a></h2>
+      <i>Una creazione di <a href="{{ author.url }}">{{ author.name }}</a></i>
+      <p>{{ work.caption | markdownify }}</p>
+    <br>
+  {% endif %}
 {% endfor %}
