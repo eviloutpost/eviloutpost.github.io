@@ -1,0 +1,55 @@
+---
+layout: titled
+---
+
+{{ page.content }}
+
+<div class="catalogue">
+    {% for post in site.works %}
+    {% unless post.container %}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-item">
+        <div>
+          <time datetime="{{ post.date }}" class="donthyphenate catalogue-time">{% assign m = post.date | date: "%-m" %} {{ post.date | date: "%-d" }}
+              {% case m %}
+                {% when '1' %}Gennaio
+                {% when '2' %}Febbraio
+                {% when '3' %}Marzo
+                {% when '4' %}Aprile
+                {% when '5' %}Maggio
+                {% when '6' %}Giugno
+                {% when '7' %}Luglio
+                {% when '8' %}Agosto
+                {% when '9' %}Settembre
+                {% when '10' %}Ottobre
+                {% when '11' %}Novembre
+                {% when '12' %}Dicembre
+              {% endcase %}
+            {{ post.date | date: "%Y" }}</time>
+          <h1 class="donthyphenate catalogue-title">{{ post.title }}</h1>
+          <div class="catalogue-line"></div>
+  
+          <div style="text-align: justify;">
+            {% assign truncatedContent = '' %}
+            {% assign paragraphs = post.content | newline_to_br | strip_newlines | split:'<br />' %}
+            {% for paragraph in paragraphs limit: post.display %}
+              {{ truncatedContent | append: paragraph }}
+            {% endfor %}
+          </div>
+  
+        </div>
+      </a>
+    {% endunless %}
+    {% endfor %}
+  </div>
+  
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+    {% endif %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
+    {% endif %}
+  
+    <span>{{ paginator.page }}</span>
+  </div>
+  
