@@ -9,6 +9,14 @@ permalink: /authors/
 </blockquote>
 <div class="author">Charles Baudelaire, <cite>La moneta falsa</cite> </div>
 
+Inebriati, corrotti, assetati.
+
+Fetidi schiavi delle nostre pulsioni, irrimediabilmente sedotti dal *vacuo*, dal *marcio*, dall'*empio*.
+
+Accecati dal nostro tossico amore per Il Male&trade;, del quale ci facciamo orgogliosamente Araldi.
+
+Siamo come voi, solo più *sinceri*.
+
 <ul>
   {% for author in site.authors %}
     {% unless author.anonymous %}
