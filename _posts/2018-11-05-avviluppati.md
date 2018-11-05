@@ -7,7 +7,7 @@ display: 1
 
 Un uomo scrutava l'orizzonte, beandosi della visione del tramonto. L'immagine del giorno che muore era dolorosa, ma se la infliuggeva volontariamente; era il suo castigo, lo meritava.
 
-Combattendo le lacrime, annunciava al cielo la sua verità:
+Sopportando lo sconforto, annunciava al cielo la sua verità:
 
 <div style="font-style: italic;" >
 Avviluppati da gelide spire <br/>
