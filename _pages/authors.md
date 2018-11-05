@@ -9,7 +9,13 @@ permalink: /authors/
 </blockquote>
 <div class="author">Charles Baudelaire, <cite>La moneta falsa</cite> </div>
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Inebriati, corrotti, assetati.
+
+Fetidi schiavi delle nostre pulsioni, irrimediabilmente sedotti dal *vacuo*, dal *marcio*, dall'*empio*.
+
+Accecati dal nostro tossico amore per Il Male&trade;, del quale ci facciamo orgogliosamente Araldi.
+
+Siamo come voi, solo più *sinceri*.
 
 <ul>
   {% for author in site.authors %}
