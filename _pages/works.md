@@ -9,14 +9,19 @@ permalink: /works
 </blockquote>
 <div class="author">Friedrich Nietzsche, <cite>Al di là del bene e del male</cite> </div>
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I più sublimi distillati delle emozioni più nere, fonti di terribile bellezza.
+
+Il Male&trade; fluisce potente nelle opere dei suoi Araldi.
+
+Fruitene *responsabilmente*.
 
 <p>
 {% for work in site.works %}
   {% if work.layout == 'work' %}
+    <div class="post-line"></div>
     {% assign author = site.authors | where: 'nickname', work.author | first %}
       <h2><a href="{{ work.url }}">{{ work.title }}</a></h2>
-      <i>Una creazione di <a href="{{ author.url }}">{{ author.name }}</a></i>
+      <p style="font-size: small; text-align: right;" >Una creazione di <a href="{{ author.url }}">{{ author.name }}</a></p>
       <p>{{ work.caption | markdownify }}</p>
     <br>
   {% endif %}
