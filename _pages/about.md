@@ -8,7 +8,6 @@ permalink: /about
 
 <br>
 
-<!-- Not sure if this should be factored out -->
 <style>
     p {text-align: center;}
 </style>
