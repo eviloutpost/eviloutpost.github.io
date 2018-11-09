@@ -14,7 +14,7 @@ layout: titled
       <a href="{{ chapter.url | prepend: site.baseurl }}" class="catalogue-item">
         <div>
           <h1 class="donthyphenate catalogue-title">{{ chapter.title }}</h1>
-          <div class="catalogue-line"></div>
+          <div class="catalogue-line" style="margin-bottom: 16px;"></div>
 
           <div style="text-align: justify;">
             {% assign truncatedContent = '' %}
@@ -28,18 +28,8 @@ layout: titled
       </a>
     {% endunless %}
     {% endfor %}
-    </div>
+</div>
   
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
-    {% endif %}
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
-    {% endif %}
-  
-    <span>{{ paginator.page }}</span>
-
-    <a href="{{ '/works' | prepend: site.baseurl }}" class="top">Indietro</a>
-
-  </div>
+<div class="pagination">
+  <a href="{{ '/works' | prepend: site.baseurl }}" class="top">Indietro</a>
+</div>
