@@ -32,10 +32,9 @@ permalink: /works
   {% for work in site.works %}
     {% if work.layout == 'work' %}
       {% assign author = site.authors | where: 'nickname', work.author | first %}
-        <h2><a href="{{ work.url }}">{{ work.title }}</a></h2>
+        <h2 style="margin-top: 5px"><a href="{{ work.url }}">{{ work.title }}</a></h2>
         <p style="font-size: small; text-align: right;" >Una creazione di <a class="donthyphenate" href="{{ author.url }}">{{ author.name }}</a></p>
         <p>{{ work.caption | markdownify }}</p>
-      <br>
     {% endif %}
   {% endfor %}
   </div>
