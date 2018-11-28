@@ -5,9 +5,9 @@ author: "gesucca"
 display: 5
 ---
 
-Il tuo respiro si è fermato alle cinque del mattino, come una calma pervasiva. Ti mangi le unghie vicino all'uscita d'emergenza - dov'è il domani? 
+Alle cinque del mattino, il mio respiro si è fermato: è calato il silenzio. Mi mangio le unghie, pronto a fuggire dall'uscita di emergenza --- dov'è il domani?
 
-Il giorno è arrivato... oppure no?
+Il giorno è arrivato.
 
 <div style="font-style: italic; margin-top: 24px; margin-bottom: 24px; padding-left: 48px;" >
 Gino Verdino è un verde bambino <br/>
@@ -40,5 +40,3 @@ Strani poteri e stranosessuali <br/>
 Mi sa che, alla fine, quello migliore <br/>
 È proprio Verdino, col cazzo d’autore. <br/>
 </div>
-
-​No, direi di no.
