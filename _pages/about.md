@@ -22,7 +22,11 @@ Qui si evolve la *follia*.
 
 Qui si pratica **Il Male&trade;**: benvenuti.
 
-<br>
+<div style="text-align: center; margin-top: 24px;">
+    <a href="https://www.facebook.com/eviloutpost/"><img src="../assets/fb-icon.png" style="width:32px; height:32px; display: inline-block; margin-right: 10px;"></a>
+    <a href="https://www.instagram.com/eviloutpost/"><img src="../assets/in-icon.png" style="width:32px; height:32px; display: inline-block;"></a>
+    <a href="https://eviloutpost.tumblr.com/"><img src="../assets/tb-icon.png" style="width:32px; height:32px; display: inline-block; margin-left: 10px;"></a>
+</div>
 
 > ...'na visione sprovveduta <br>
 > mi so' fatto della vita <br>
