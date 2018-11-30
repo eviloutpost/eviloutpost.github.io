@@ -2,7 +2,7 @@
 layout: post
 title:  "Boku no Hero"
 author: "gesucca"
-display: 5
+display: 3
 ---
 
 Alle cinque del mattino, il mio respiro si è fermato: è calato il silenzio. Mi mangio le unghie, pronto a fuggire dall'uscita di emergenza --- dov'è il domani?
