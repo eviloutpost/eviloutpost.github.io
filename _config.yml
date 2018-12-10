@@ -8,9 +8,15 @@ google_analytics: UA-128102222-1
 
 # Site info
 author:
-  name:         EvilOutpost
+  name:         Evil Outpost
   url:          https://eviloutpost.github.io
   email:        eviloutpost@gmail.com
+logo:           /assets/eviloutpost.png
+social:
+  links:
+    - https://www.facebook.com/eviloutpost/
+    - https://eviloutpost.tumblr.com/
+    - https://www.instagram.com/eviloutpost/
 
 # Authors, as shown in Jekyill tutorial
 collections:
