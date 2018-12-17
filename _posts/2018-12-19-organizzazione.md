@@ -4,26 +4,25 @@ title:  "Cronache del Male - Vol.3"
 author: "aarde"
 display: 10
 ---
-Ulrico non ne poteva più: lui e Pancrazia stavano girovagando per quel maledetto negozio da almeno tre ore.
-
-La ragazza era euforica, mentre il povero Ulrico si trascinava con crescenti manie suicide. 
+Ulrico non ne poteva più: lui e Pancrazia stavano girovagando per quel maledetto negozio da almeno tre ore. La ragazza era euforica, mentre il povero Ulrico si trascinava con crescenti manie suicide. 
 
 «Oddio Ulrico, è perfetto...!» cinguettò Pancrazia, richiamando l'attenzione del suo accompagnatore. 
 
-«Si, tesoro, è perfetto...» gemette Ulrico «Come gli altri duecento che hai visto fino ad adesso, possiamo *per favore* scegliere ed andarcene...?»
+«Si, tesoro, è perfetto» gemette Ulrico. «Come gli altri duecento che hai visto fino a ora... possiamo *per favore* scegliere e andarcene...?»
 
-«Non parlare così alla mia *bambina*!» Si intromise una voce sgradevole «Scegliere le bomboniere è *FON-DA-MEN-TA-LE*!»
+«Non parlare così alla mia *bambina*!» si intromise una voce sgradevole. «Scegliere le bomboniere è *FON-DA-MEN-TA-LE*!»
 
-Ulrico, seccato, roteò gli occhi a quell'affermazione e sussurò a mezza bocca una sequela di maledizioni alla futura suocera che comprendevano l'inusuale utilizzo di una bomba in un *simpatico* orefizio nascosto.
+Ulrico, seccato, roteò gli occhi a quell'affermazione, sussurrando alla futura suocera una sequela di maledizioni che comprendevano un *simpatico* utilizzo di una bomba in un orefizio nascosto.
 
-Si, lui e Pancrazia stavano per sposarsi. Ulrico ne era contento, era innamorato e non vedeva l'ora di convolare a nozze con la sua amata... Anche solo per strapparla dalle grinfie maledette di quella becera della sua *quasi-suocera* che, come nei migliori cliché, non lo sopportava. 
-Era infatti la suocera la proprietaria di quella voce antipatica e supponente che si intrometteva continuamente, rendendo la permanenza al negozio ancor più terrificante.
+Sì, lui e Pancrazia stavano per sposarsi. Ulrico ne era contento, era innamorato e non vedeva l'ora di convolare a nozze con la sua amata, non fosse altro che per strapparla dalle grinfie maledette di quella becera della sua *quasi-suocera* che, come nei migliori cliché, non lo sopportava. 
 
-Con la coda dell'occhio vide materializzarsi una borsetta, si abbassò in tempo, ma dovette sorbirsi la solita ramanzina dalla vecchia sul *come-comportarsi-che-sua-figlia-era-una-signorina-per-bene-e-lui-non-la-meritava*. 
+Con la coda dell'occhio Ulrico vide materializzarsi una borsetta; si abbassò in tempo, ma dovette sorbirsi la solita ramanzina dalla vecchia sul *come-comportarsi-che-sua-figlia-era-una-signorina-per-bene-e-lui-non-la-meritava*. 
 
-«Mamma, lascialo in pace.» Mise fine Pancrazia alle ire della madre «Amore, manca solo da scegliere gli inviti e poi abbiamo finito, mi aiuti?» chiese poi la ragazza rivolta ad Ulrico, tutta occhioni e ciglia. 
+«Mamma, lascialo in pace» mise fine Pancrazia alle ire della madre. «Amore, manca solo da scegliere gli inviti e poi abbiamo finito, mi aiuti?» chiese poi la ragazza rivolta ad Ulrico, tutta occhioni e ciglia. 
 
-Il pover'uomo acconsentì. Infondo era contento che la sua fidanzata fosse felice, un po' meno per l'aver quell'impiastro sempre dietro, ma per la sua Pancrazia avrebbe sopportato e poi dopo il matrimonio si sarebbero trasferiti in un'altra città dell'Impero. Ulrico aveva infatti deciso, col sostegno di Pancrazia e Clarabella - che fortunatamente andava molto d'accordo con la fidanzata del padre -, di accettare un avanzamento di carriera, che però lo avrebbe costretto a trasferirsi. Questi pensieri gli diedero la spinta per riprendersi dallo stato di disperata seccatura in cui si trovava ed acconsentì ad aiutare la sua amata nella scelta degli inviti.
+<!-- riletto fino a qui -->
+
+Il pover'uomo acconsentì. In fondo era contento che la sua fidanzata fosse felice, un po' meno per l'aver quell'impiastro sempre dietro, ma per la sua Pancrazia avrebbe sopportato e poi dopo il matrimonio si sarebbero trasferiti in un'altra città dell'Impero. Ulrico aveva infatti deciso, col sostegno di Pancrazia e Clarabella - che fortunatamente andava molto d'accordo con la fidanzata del padre -, di accettare un avanzamento di carriera, che però lo avrebbe costretto a trasferirsi. Questi pensieri gli diedero la spinta per riprendersi dallo stato di disperata seccatura in cui si trovava ed acconsentì ad aiutare la sua amata nella scelta degli inviti.
 
 Dopo la fatidica scelta, costata ulteriori due ore di fatica e tempo, i tre si appropinquarono alla cassa.
 
