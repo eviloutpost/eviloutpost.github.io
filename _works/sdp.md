@@ -9,7 +9,7 @@ caption: "Amore e odio, una buona dose di follia e un pizzico di perversione: ri
 
 *Il Senno di Poi* è uno strano romanzo di <a href="{{ author.url }}">{{ author.name }}</a>.
 
-Questa incredibile creazione letteraria apparve per la prima volta in una certa [orgia di ragazzine](https://www.wattpad.com/story/86269459-il-senno-di-poi) nell''ormai lontano gennaio del 2017. Ora ha finalmente trovato rifugio qui, nel suo habitat naturale, a stretto contatto con gli altri frutti de Il Male&trade;.
+Questa incredibile creazione letteraria apparve per la prima volta in una certa [orgia di ragazzine](https://www.wattpad.com/story/86269459-il-senno-di-poi) nell'ormai lontano gennaio del 2017. Ora ha finalmente trovato rifugio qui, nel suo habitat naturale, a stretto contatto con gli altri frutti de Il Male&trade;.
 
 <!-- add here link to pdf? -->
 
