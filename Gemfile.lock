@@ -10,7 +10,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.2)
+    addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.4)
@@ -77,10 +77,10 @@ PLATFORMS
   x64-mingw32
 
 DEPENDENCIES
-  bundler (~> 1.12)
+  bundler (~> 2.0.0)
   jekyll-sitemap
   rake (~> 10.0)
   tale!
 
 BUNDLED WITH
-   1.17.2
+   2.0.1
