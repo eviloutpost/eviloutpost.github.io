@@ -28,19 +28,15 @@ Dopo la fatidica scelta, costata ulteriori due ore di fatica e tempo, i tre si a
 
 All'improvviso, proprio quando il commesso stava per battere lo scontrino alla cassa si sentì aleggiare nell'aria un suono. Era un suono strano, come una litania. Sembravano delle parole a caso, totalmente inventate.
 
-*... wewé wewé wewé wewé guagliò!* 
+*... wewé wewé wewé wewé guagliò! Bellu st'orologgioh!* 
 
-Ulrico tese l'orecchio, ma le parole erano ancora troppo basse, si affacciò alla porta, la litania parve aumentare di volume
-
-*... wewé wewé wewé wewé guagliò! Bellu st'orologgioh! wewé wewé wewé wewé guagliò! Bellu st'orologgioh! wewé wewé wewé wewé guagliò! wewé wewé wewé wewé guagliò!* 
-
-Ulrico si congelò sul posto: quel richiamo voleva dire solo una cosa... e la cosa non gli piaque per niente.
+Ulrico tese l'orecchio, ma le parole erano ancora troppo basse, si affacciò alla porta, la litania parve aumentare di volume e si congelò sul posto: quel richiamo voleva dire solo una cosa... e la cosa non gli piaque per niente.
 
 Pancrazia si stava già esibendo in una ammirevole sequela di maledizioni e bestemmie, più sveglia di Ulrico, aveva già capito cosa sarebbe successo di li a poco, mentre il mostr... La best... La suocera stava già dando prova della sua antipatia con i suoi *TE-L-AVEVO-DETTO-DI-NON-ANDARE-OGGI*.
 
 Era il giorno delle leggi al rovescio. 
 
-Il cassiere, memore di innumerevoli giorni come questo sfilò da sotto al bancone un fucile a pompa e lo puntò contro Ulrico, «Vi lascio tutto prenotato. Venite domani a pagarlo.» Disse lapidario.
+Il cassiere, memore di innumerevoli giorni come quello sfilò da sotto al bancone un fucile a pompa e lo puntò contro Ulrico, «Vi lascio tutto prenotato. Venite domani a pagarlo.» Disse lapidario.
 
 Ulrico, preso alla sprovvista, si ridestò dai suoi pensieri. Stava infatti già pensando che tutto ciò che avevano scelto avrebbero dovuto rubarlo, ma il cassiere lo aveva anticipato. Non gli restava che agguantare Pancrazia e scappare dal negozio.
 
@@ -71,7 +67,7 @@ Pancrazia atterrò nel mezzo della stanza, Ulrico era rimasto imbambolato a guar
 
 «In camera mia, ovvio» rispose pratica Clarabella. Ulrico e Pancrazia si guardarono: doveva esserci qualcosa di sbagliato in quella quindicenne (?diciottenne? che età si mette?), ma erano così sbalorditi da quella risposta che Ulrico non riuscì a formulare nient'altro che un tentennante «ehm.. Si. Ok... Ma perché mai dovresti avere un *badile* in camera tua?».
 
-Clarabella sospirò sconfitta: abitavano nell'Impero da ani ormai, avevano già provato più e più volte le leggi bizzarre dell'Imperatore, possibile che suo padre non riuscisse a fare 2+2?
+Clarabella sospirò sconfitta: abitavano nell'Impero da anni ormai, avevano già provato sulla loro pelle più e più volte le leggi bizzarre dell'Imperatore, possibile che suo padre non riuscisse a pensare aldilà del suo naso?
 
 «Forse perché in questo *meraviglioso paese all'avanguardia* ci sono i "Giorni delle Leggi al Contrario"? Non ti pare?» sputò con stizza «E' ovvio che se c'è l'obbligo di andare a rubare nelle case o di ammazzare qualcuno non vanno dal Signor Fiascazzi del piano quarto, ma vengono qua, dove ci sono io che sono una ragazza, no?» continuò, sempre con stizza, riferendosi al condomino del quarto piano, un omone di circa due metri per quattro.
 
@@ -79,8 +75,12 @@ Ulrico si riscosse, era ammaliato dallo gnegnero che dismostrava sempre sua figl
 
 «Oh tesoro...!» prese parola Pancrazia, Ulrico non si era accorto che la donna era sparita nel ripostiglio ed adesso stava tornando con una scopa in mano «Su, Ulrico, prendi il badile di Clarabella, che dobbiamo far rotolare 'sto coso fuori di casa!» Ordinò, quindi.
 
-Ulrico prese il badile dalle mani di Clarabella e cominciò, non senza una certa fatica, a far rotolare quell'energumero fuori dalla porta di casa. Arrivati al pianerottolo sentirono una voce conosciuta provenire dal pian terreno, si guardarono e con un ghigno malvagio spinsero il tizio giù dalle scale.
+Ulrico prese il badile dalle mani di Clarabella, la quale ammonì il padre con un minaccioso «trattamelo bene eh?!» riferito al suddetto badile e cominciò, non senza una certa fatica, a far rotolare quell'energumero fuori dalla porta di casa. Arrivati al pianerottolo sentirono una voce conosciuta provenire dal pian terreno, una *simpatica* megera stava maledicendo Ulrico e la figlia per averla lasciata al negozio. 
 
-Cominciò a rotolare ed Ulrico si stupì di quanta velocità stesse prendendo, quando un urlo disumano si levò dalla tromba delle scale:
+Già immaginandosi l'infinita ramanzina che li aspettava, si guardarono e con un ghigno malvagio spinsero il tizio giù dalle scale.
 
-«SRTIKE!» esultarono Pancrazia ed Ulrico battendosi il cinque: il mostr... La scimm... La zocc... La suocera era stata momentaneamente abbattuta. 
+Cominciò a rotolare ed Ulrico si stupì di quanta velocità stesse prendendo, quando un urlo disumano si levò dalla tromba delle scale.
+
+«AAAAAH MALEDETTI!» Urlò la suocera di Ulrico.
+
+«SRTIKE!» esultarono Pancrazia ed Ulrico battendosi il cinque: il mostr... La scimm... La zocc... La suocera era stata momentaneamente abbattuta.
