@@ -2,23 +2,25 @@
 layout: post
 title:  "Cronache del Male - Vol.3"
 author: "aarde"
-display: 10
+display: 5
 ---
-Ulrico non ne poteva più: lui e Pancrazia stavano girovagando per quel maledetto negozio da almeno tre ore. La ragazza era euforica, mentre il povero Ulrico si trascinava con crescenti manie suicide. 
+Ulrico non ne poteva più: lui e Pancrazia stavano girovagando per quel maledetto negozio da almeno tre ore. La ragazza era euforica, ma il povero Ulrico aveva passato l'ultima mezz'ora a immaginare modi per togliersi la vita. 
 
-«Oddio Ulrico, è perfetto...!» cinguettò Pancrazia, richiamando l'attenzione del suo accompagnatore. 
+«Oddio, *questa* è perfetto...!» cinguettò Pancrazia, richiamando l'attenzione del suo compagno. 
 
-«Si, tesoro, è perfetto» gemette Ulrico. «Come gli altri duecento che hai visto fino a ora... possiamo *per favore* scegliere e andarcene...?»
+«Si, tesoro, *quella* è perfetto», gemette Ulrico, sull'orlo di una crisi. «Come quella di prima, e quella prima ancora... in nome del Cristo, possiamo scegliere e andarcene?»
 
-«Non parlare così alla mia *bambina*!» si intromise una voce sgradevole. «Scegliere le bomboniere è *FON-DA-MEN-TA-LE*!»
+Una voce sgradevole si intromise: «Non parlare così alla mia *bambina!* Scegliere le bomboniere è *FON-DA-MEN-TA-LE!*» 
 
-Ulrico, seccato, roteò gli occhi a quell'affermazione, sussurrando alla futura suocera una sequela di maledizioni che comprendevano un *simpatico* utilizzo di una bomba in un orefizio nascosto.
+Ulrico roteò gli occhi, e sussurrò alla futura suocera una sequela di suggerimenti, fra cui un simpatico utilizzo di quelle dannate bomboniere. Sì, *futura suocera*: quel già orribile mostro stava per raggiungere la sua forma finale. Ulrico rabbrividiva ogni volta che cu pensava, ma in fondo era contento; era innamorato, non vedeva l'ora di convolare a nozze con la sua amata Pancrazia - non fosse altro che per strapparla dalle grinfie maledette di quella becera di sua madre, che come nel migliore dei cliché, non lo sopportava. 
 
-Sì, lui e Pancrazia stavano per sposarsi. Ulrico ne era contento, era innamorato e non vedeva l'ora di convolare a nozze con la sua amata, non fosse altro che per strapparla dalle grinfie maledette di quella becera della sua *quasi-suocera* che, come nei migliori cliché, non lo sopportava. 
+Con la coda dell'occhio Ulrico vide materializzarsi una borsetta; si abbassò in tempo per evitare il colpo, ma sapeva che non avrebbe potuto salvarsi dalla ramanzina sul *come-comportarsi-che-sua-figlia-era-una-signorina-per-bene-e-lui-non-la-meritava*. 
 
-Con la coda dell'occhio Ulrico vide materializzarsi una borsetta; si abbassò in tempo, ma dovette sorbirsi la solita ramanzina dalla vecchia sul *come-comportarsi-che-sua-figlia-era-una-signorina-per-bene-e-lui-non-la-meritava*. 
+Dovette intervenire Pancrazia per salvarlo dalle ire della madre.
 
-«Mamma, lascialo in pace» mise fine Pancrazia alle ire della madre. «Amore, manca solo da scegliere gli inviti e poi abbiamo finito, mi aiuti?» chiese poi la ragazza rivolta ad Ulrico, tutta occhioni e ciglia. 
+«Mamma, lascialo in pace!», sbottò alla vecchia con rozza decisione.
+
+«Amore, manca solo da scegliere gli inviti e poi abbiamo finito, mi aiuti?» chiese poi ad Ulrico, tutta occhioni e ciglia.
 
 <!-- riletto fino a qui -->
 
