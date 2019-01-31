@@ -22,21 +22,41 @@ Dovette intervenire Pancrazia per salvarlo dalle ire della madre.
 
 «Amore, manca solo da scegliere gli inviti e poi abbiamo finito, mi aiuti?» chiese poi ad Ulrico, tutta occhioni e ciglia.
 
-<!-- riletto fino a qui -->
+Il pover'uomo acconsentì. Era contento che la sua fidanzata fosse felice --- un po' meno per l'avere quell'impiastro sempre dietro, ma per la sua Pancrazia avrebbe sopportato. E poi, si trattava soltanto di dover stringere i denti in un ultimo, eroico sfrozo: dopo il matrimonio si sarebbero trasferiti in un'altra città dell'Impero, e la mostruosa suocera sarebbe stata rilegata a pasque e natali. Ulrico aveva infatti deciso, col pieno sostegno di Pancrazia e di sua figlia Clarabella (che, fortunatamente e piuttosto inaspettatamente, andava molto d'accordo con la fidanzata del padre), di accettare un avanzamento di carriera che lo avrebbe costretto a trasferirsi. Il pensiero di questo futuro lontano da vecchie invadenti gli diede la spinta per scrollarsi di dosso la paura di disperazione, ed acconsentì ad aiutare la sua amata nella scelta degli inviti.
 
-Il pover'uomo acconsentì. In fondo era contento che la sua fidanzata fosse felice, un po' meno per l'aver quell'impiastro sempre dietro, ma per la sua Pancrazia avrebbe sopportato e poi dopo il matrimonio si sarebbero trasferiti in un'altra città dell'Impero. Ulrico aveva infatti deciso, col sostegno di Pancrazia e Clarabella - che fortunatamente andava molto d'accordo con la fidanzata del padre -, di accettare un avanzamento di carriera, che però lo avrebbe costretto a trasferirsi. Questi pensieri gli diedero la spinta per riprendersi dallo stato di disperata seccatura in cui si trovava ed acconsentì ad aiutare la sua amata nella scelta degli inviti.
+Dopo la fatidica scelta, costata due ulteriori ore di fatica e tempo, fidanzati e suocera si appropinquarono alla cassa.
 
-Dopo la fatidica scelta, costata ulteriori due ore di fatica e tempo, i tre si appropinquarono alla cassa.
+All'improvviso, proprio quando il commesso stava per battere lo scontrino, si sentì un rumore aleggiare nell'aria. Era un strano farfugliare, come una litania, parole a caso totalmente inventate.
 
-All'improvviso, proprio quando il commesso stava per battere lo scontrino alla cassa si sentì aleggiare nell'aria un suono. Era un suono strano, come una litania. Sembravano delle parole a caso, totalmente inventate.
+*...Ué...* 
 
-*... wewé wewé wewé wewé guagliò! Bellu st'orologgioh!* 
+Ulrico tese l'orecchio, ma le parole erano ancora troppo basse e confuse per poterle distinguere.
 
-Ulrico tese l'orecchio, ma le parole erano ancora troppo basse, si affacciò alla porta, la litania parve aumentare di volume e si congelò sul posto: quel richiamo voleva dire solo una cosa... e la cosa non gli piaque per niente.
+*...Ué guagliò...* 
 
-Pancrazia si stava già esibendo in una ammirevole sequela di maledizioni e bestemmie, più sveglia di Ulrico, aveva già capito cosa sarebbe successo di li a poco, mentre il mostr... La best... La suocera stava già dando prova della sua antipatia con i suoi *TE-L-AVEVO-DETTO-DI-NON-ANDARE-OGGI*.
+Si affacciò alla porta e ascoltò con la massima attenzione. 
 
-Era il giorno delle leggi al rovescio. 
+*...Ué guagliò, bell’ st’orolog’...* 
+
+Si congelò sul posto: quel segnale poteva voler dire solo una cosa --- una la cosa che non gli piaceva per niente.
+
+Pancrazia si stava già esibendo in un'ammirevole sequela di maledizioni e bestemmie; era più sveglia di Ulrico, aveva già capito cosa sarebbe successo di lì a poco. Persino il mostr- la best- la suocera stava già dando prova della sua antipatia esibendosi in un collaudato *TE-L-AVEVO-DETTO-DI-NON-ANDARE-OGGI*.
+
+Le terribili parole continuarono a rimbombare nell'aria.
+
+*...Ué guagliò, bell’ st’orolog’...* 
+
+L'infausta cantilena annunciava l'inizio di un'altra *belissima* trovata dell'Imperatore.
+
+**Legge Bizzarra n.1106 del 28 brumaio, anno 27**
+
+**DISPOSIZONI SULL'INVERSIONE NORMATIVA**
+
+**Per ogni cittadino che ode il segnale n.316 (ref. Libro dei Segnali Bizzarri, sez. 3 - Inneschi per Comportamenti a Tempo Limitato), l'efficacia delle norme definite nella Legge Ordinaria, sia inerenti a prescrizioni che a divieti, è invertita fino alle ore 3 della mattina immediatamente successiva.**
+
+Le leggi al rovescio, un perfetto coronamento di una perfetta giornata di merda.
+
+<!-- Simone: riletto fino a qui -->
 
 Il cassiere, memore di innumerevoli giorni come quello sfilò da sotto al bancone un fucile a pompa e lo puntò contro Ulrico, «Vi lascio tutto prenotato. Venite domani a pagarlo.» Disse lapidario.
 
