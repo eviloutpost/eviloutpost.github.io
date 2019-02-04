@@ -48,6 +48,7 @@ Le terribili parole continuarono a rimbombare nell'aria.
 
 L'infausta cantilena annunciava l'inizio di un'altra *belissima* trovata dell'Imperatore.
 
+<br>
 <p style="text-align: center;">
 <i>Legge Bizzarra n.1106 del 28 brumaio, anno 27</i><br>
 <b>DISPOSIZONI SULL'INVERSIONE NORMATIVA</b><br>
@@ -56,56 +57,56 @@ L'infausta cantilena annunciava l'inizio di un'altra *belissima* trovata dell'Im
 <br>
 <i>*(ref. Libro dei Segnali Bizzarri, sez. 3 - Inneschi per Comportamenti a Tempo Limitato)</i><br>
 <i>**(ref. Codice Civile, art.9666 - Imperial Broadcasting System&trade;)</i></p>
+<br>
 
 Le leggi al rovescio, un perfetto coronamento di una perfetta giornata di merda.
 
-<!-- Simone: riletto fino a qui -->
+Il proprietario del negozio, memore di innumerevoli giorni come quello, sfilò lesto da sotto al bancone un fucile a pompa e lo puntò contro Ulrico. «Vi lascio tutto prenotato», annunciò con lapidaria fermezza. «Ora andatevene *senza toccare niente*, o smetterò di fingere di non vedervi.»
 
-Il cassiere, memore di innumerevoli giorni come quello sfilò da sotto al bancone un fucile a pompa e lo puntò contro Ulrico, «Vi lascio tutto prenotato. Venite domani a pagarlo.» Disse lapidario.
+La mente di Ulrico girava a vuoto. I divieti diventavano obblighi, perciò avrebbero dovuto rubare tutto quello che avevano scelto --- ed il negoziante avrebbe dovuto ucciderli, o almeno provarci --- anche loro avrebbero dovuto uccidere il negoziante --- avrebbero dovuto uccidersi fra di loro, in effetti --- avrebbero dovuto uccidere e derubare *tutti* --- e c'erano un sacco di altre leggi da soddisfare, avrebbero dovuto formare un'associazione a delinquere, vendere organi al mercato nero, passare col rosso --- che diavolo aveva in testa l'Imperatore, come poteva essere anche solo *possibile* avere un'idea del genere ---
 
-Ulrico, preso alla sprovvista, si ridestò dai suoi pensieri. Stava infatti già pensando che tutto ciò che avevano scelto avrebbero dovuto rubarlo, ma il cassiere lo aveva anticipato. Non gli restava che agguantare Pancrazia e scappare dal negozio.
+Pancrazia lo stava già trascinando fuori dal negozio più velocemente della luce, arraffando cose e accoppando persone.
 
-«Ulrico!! Mia mamma! L'hai mollata lì!» si impuntò Pancrazia.
+«Ulrico, mia mamma! L'hai mollata lì!» gli urlò.
 
-«*Mai una gioia eh?*» Si chiese Ulrico a mezza voce, ovviamente aveva lasciato indietro il Mostro di proposito «Oddio Pancrazia! Andiamo a recuperarla!» fece lui con evidente sarcasmo.
+«Mai una gioia, eh?» fece Ulrico sottovoce, mentre riprendeva contatto con la realtà. «Oddio, Pancrazia! Andiamo *subito* a recuperarla!» esclamò sarcastico, come se avesse lasciato indietro di proposito la mostruosa suocera.
 
-Pancrazia rise sotto ai baffi: non aveva alcuna intenzione di andare a recuperare sua madre, era sicura che se la sarebbe cavata egregiamente.
+Pancrazia rise sotto ai baffi; non aveva alcuna intenzione di andare a recuperare sua madre, era sicura che se la sarebbe cavata egregiamente.
 
-Si fermarono nel parcheggio e presero la prima auto che trovarono, Pancrazia era abilissima a scassinarle e metterle in moto, quindi partirono alla volta di casa di Ulrico. 
+I due fidanzati raggiunsero l'esterno dell'edificio e si diressero verso la loro automobile. Ulrico era stato troppo occupato a chiedersi se avrebbero dovuto vandalizzare *tutte* le auto per notare a livello conscio che la sua Pancrazia aveva scassinato e messo in moto una macchina qualsiasi con l'agilità di un incallito criminale; in men che non si dica, fra bestemmie e semafori rossi, i due arrivarono a casa di Ulrico sani e salvi.
 
-Dopo un breve viaggio costellato da imprecazioni, bestemmie e folli corse, arrivarono a casa di Ulrico sani e salvi.
+Erano già a metà delle scale quando notarono che tutte le porte del palazzo erano state scassinate, segno che qualcuno si stava fin troppo approfittato di quella giornata. Ulrico ebbe un solo pensiero: sua figlia Clarabella. 
 
-Stavano salendo le scale quando notarono tutte le porte del palazzo scassinate, segno che qualcuno si era fin troppo approfittato di quella giornata. Schizzarono su per le rampe che gli rimanevano e accorsero al pianerottolo di casa.
+Lui e Pancrazia schizzarono su per le rampe che rimanevano e accorsero al pianerottolo di casa, trovando la porta forzata. Entrarono in punta di piedi, Pancrazia già pronta ad attaccare --- aveva raccattato una pistola chissà dove e stava facendo cenno ad Ulrico di apprestarsi a starle dietro, mentre a passi felpati raggiungeva la cucina. Ulrico non capiva più niente, la sua donna era diventata un misto fra un criminale e un marines e lui cominciava a chiedersi se, dopo aver passato qualche anno nell'Impero del Male, anche lui sarebe diventato un curioso abominio.
 
-Trovarono la porta socchiusa, evidentemente aperta con la forza: Ulrico a quel punto cominciò a sudare freddo, aveva paura per sua figlia.
-Entrarono in punta di piedi con Pancrazia già pronta ad attaccare, non si sa dove aveva raccattato una pistola e adesso stava facendo cenno ad Ulrico di apprestarsi a starle dietro, mentre a passi felpati raggiungeva la cucina, da dove proveniva l'unica illuminazione della casa.
+Pancrazia si appostò al lato della porta e si portò un indice alla bocca, segnlando ad Ulrico di fare silenzio. Un silenzioso conto alla rovescia con le dita, e con spaventosa irruenza aprì la porta con un calcio e comandò con voce autoritaria: «MANI IN ALTO! SONO ARMATA! MOLLA LA RAGAZZA E NESSUNO SI FARA' MALE!»
 
-Si mise al lato della porta e, come nei migliori film polizieschi, si portò un indice alla bocca, segnlando ad Ulrico di fare silenzio.
+La scena che si parò davanti all'ardita Pancrazia le fece rompere il personaggio facendole scappare una bestemmia. Clarabella se ne stava appollaiata su di un tabolo con un badile in mano, evidentemente pronta ad attaccare, mentre un tizio enorme condivideva il pavimento con parte del suo sangue.
 
-Balzò con grazia mentre apriva la porta con un calcio, pistola spiegata e gridò a pieni polmoni «MANI IN ALTO! SONO ARMATA! MOLLA LA RAGAZZA E NESSUNO SI FARA' MALE!».
+«Silenzio!» ammonì la ragazza, brandendo il badile contro di loro. «Gli ho dato una bella tonfata nel capo, ma se si sveglia che si fa?»
 
-Pancrazia atterrò nel mezzo della stanza, Ulrico era rimasto imbambolato a guardare la sua fidanzata, bocca aperta ed occhi a cuore compresi. Si risvegliò quando la donna abbozzò una bestemmia di stupore: Clarabella era appollaiata sul bancone della cucina con un badile in mano, pronta ad attaccare, mentre un tizio enorme era steso per terra.
+La testa di Ulrico esplose.
 
-«Shhhhh! Zitti che sennò si sveglia!» li ammonì la ragazza brandendo il badile contro di loro «Gli ho dato una bella tonfata nel capo, ora che si fa?» aggiunse poi tenendo sotto tiro di pala il tizio per terra.
+«Cosa... Dove... Dove diamine hai trovato un badile, tanto per cominciare?!» esclamò a metà tra lo stupito, lo spaventato e l'ammirato.
 
-«... Ma... Ma dove diamine hai trovato un badile?!» esclamò Ulrico a metà tra lo stupito, lo spaventato e l'ammirato.
+«In camera mia, ovvio» rispose pratica Clarabella. 
 
-«In camera mia, ovvio» rispose pratica Clarabella. Ulrico e Pancrazia si guardarono: doveva esserci qualcosa di sbagliato in quella quindicenne (?diciottenne? che età si mette?), ma erano così sbalorditi da quella risposta che Ulrico non riuscì a formulare nient'altro che un tentennante «ehm.. Si. Ok... Ma perché mai dovresti avere un *badile* in camera tua?».
+Ulrico guardò Pancrazia, sopraffatto: doveva esserci qualcosa di sbagliato in quella ragazza, ma ripensandoci doveva esserci qualcosa di sbagliato anche nell'*altra* ragazza. Ma ripensandoci, forse c'era qualcosa di sbagliato in lui. In ogni caso, era così sbalordito da quella risposta che non riuscì a formulare nient'altro che un tentennante «Ehm... Sì. Ok... Ma *perché* dovresti avere un *badile* in camera tua?».
 
-Clarabella sospirò sconfitta: abitavano nell'Impero da anni ormai, avevano già provato sulla loro pelle più e più volte le leggi bizzarre dell'Imperatore, possibile che suo padre non riuscisse a pensare aldilà del suo naso?
+Clarabella sospirò sconfitta: abitavano nell'Impero da diverso tempo ormai, avevano già provato sulla loro pelle più e più volte le Leggi Bizzarre, possibile che suo padre non riuscisse a pensare al di fuori dei suoi noiosi schemi?
 
-«Forse perché in questo *meraviglioso paese all'avanguardia* ci sono i "Giorni delle Leggi al Contrario"? Non ti pare?» sputò con stizza «E' ovvio che se c'è l'obbligo di andare a rubare nelle case o di ammazzare qualcuno non vanno dal Signor Fiascazzi del piano quarto, ma vengono qua, dove ci sono io che sono una ragazza, no?» continuò, sempre con stizza, riferendosi al condomino del quarto piano, un omone di circa due metri per quattro.
+«*Venite nell'Impero del Male, eh?* Che vuoi che me ne faccia di un badile?! Forse mi serve proprio perché in questo *paese all'avanguardia* ci sono cose come l'Inversione Normativa, no?» sputò Clarabella con stizza. «Ma non li leggi proprio mai gli opuscoli che mandano? Se c'è l'obbligo di andare a rubare nelle case o di ammazzare qualcuno, non vanno dal Signor Fiascazzi del piano quarto! Vengono qua, dove ci sono io che sono una ragazza, no?»
 
-Ulrico si riscosse, era ammaliato dallo gnegnero che dismostrava sempre sua figlia: sicuramente non aveva ripreso da lui. Ne fu grato. 
+Ulrico non disse niente, ammaliato dallo gnegnero che dismostrava sempre sua figlia. Sicuramente non aveva ripreso da lui, e grazie tante. 
 
-«Oh tesoro...!» prese parola Pancrazia, Ulrico non si era accorto che la donna era sparita nel ripostiglio ed adesso stava tornando con una scopa in mano «Su, Ulrico, prendi il badile di Clarabella, che dobbiamo far rotolare 'sto coso fuori di casa!» Ordinò, quindi.
+«Tesoro...» flautò Pancrazia, sparita nel ripostiglio e tornata con una scopa in mano. «Sù, Ulrico! Prendi il badile di Clarabella, che dobbiamo far rotolare 'sto coso fuori di casa!»
 
-Ulrico prese il badile dalle mani di Clarabella, la quale ammonì il padre con un minaccioso «trattamelo bene eh?!» riferito al suddetto badile e cominciò, non senza una certa fatica, a far rotolare quell'energumero fuori dalla porta di casa. Arrivati al pianerottolo sentirono una voce conosciuta provenire dal pian terreno, una *simpatica* megera stava maledicendo Ulrico e la figlia per averla lasciata al negozio. 
+Ulrico prese il badile dalle mani di Clarabella --- che ammonì il padre con un minaccioso *trattamelo bene, eh!* riferito al suddetto badile --- e cominciò, non senza una certa fatica, a far rotolare quel malcapitato criminale fuori dalla porta di casa. 
 
-Già immaginandosi l'infinita ramanzina che li aspettava, si guardarono e con un ghigno malvagio spinsero il tizio giù dalle scale.
+Arrivati al pianerottolo sentirono una voce conosciuta provenire dal pian terreno: una simpatica megera stava maledicendo Ulrico e la figlia per averla abbandonata al negozio. 
 
-Cominciò a rotolare ed Ulrico si stupì di quanta velocità stesse prendendo, quando un urlo disumano si levò dalla tromba delle scale.
+Ulrico e Pancrazia si guardarono. Un ghigno malvagio si dipinse sui loro volti.
 
-«AAAAAH MALEDETTI!» Urlò la suocera di Ulrico.
+Un urlo disumano si levò dalla tromba delle scale: «*AAAAAH!* MALEDETTI!»
 
-«SRTIKE!» esultarono Pancrazia ed Ulrico battendosi il cinque: il mostr... La scimm... La zocc... La suocera era stata momentaneamente abbattuta.
+«*SRTIKE!*» esultarono Pancrazia ed Ulrico, battendosi il cinque. Il mostr --- la scimm --- la zocc --- la suocera era stata abbattuta.
