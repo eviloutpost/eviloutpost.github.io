@@ -12,7 +12,7 @@ Ulrico non ne poteva più: lui e Pancrazia stavano girovagando per quel maledett
 
 Una voce sgradevole si intromise: «Non parlare così alla mia *bambina!* Scegliere le bomboniere è *FON-DA-MEN-TA-LE!*» 
 
-Ulrico roteò gli occhi, e sussurrò alla futura suocera una sequela di suggerimenti, fra cui un simpatico utilizzo di quelle dannate bomboniere. Sì, *futura suocera*: quel già orribile mostro stava per raggiungere la sua forma finale. Ulrico rabbrividiva ogni volta che cu pensava, ma in fondo era contento; era innamorato, non vedeva l'ora di convolare a nozze con la sua amata Pancrazia - non fosse altro che per strapparla dalle grinfie maledette di quella becera di sua madre, che come nel migliore dei cliché, non lo sopportava. 
+Ulrico roteò gli occhi, e sussurrò alla futura suocera una sequela di suggerimenti, fra cui un simpatico utilizzo di quelle dannate bomboniere. Sì, *futura suocera*: quel già orribile mostro stava per raggiungere la sua forma finale. Ulrico rabbrividiva ogni volta che ci pensava, ma in fondo era contento; era innamorato, non vedeva l'ora di convolare a nozze con la sua amata Pancrazia - non fosse altro che per strapparla dalle grinfie maledette di quella becera di sua madre, che come nel migliore dei cliché, non lo sopportava. 
 
 Con la coda dell'occhio Ulrico vide materializzarsi una borsetta; si abbassò in tempo per evitare il colpo, ma sapeva che non avrebbe potuto salvarsi dalla ramanzina sul *come-comportarsi-che-sua-figlia-era-una-signorina-per-bene-e-lui-non-la-meritava*. 
 
@@ -22,7 +22,7 @@ Dovette intervenire Pancrazia per salvarlo dalle ire della madre.
 
 «Amore, manca solo da scegliere gli inviti e poi abbiamo finito, mi aiuti?» chiese poi ad Ulrico, tutta occhioni e ciglia.
 
-Il pover'uomo acconsentì. Era contento che la sua fidanzata fosse felice --- un po' meno per l'avere quell'impiastro sempre dietro, ma per la sua Pancrazia avrebbe sopportato. E poi, si trattava soltanto di dover stringere i denti in un ultimo, eroico sfrozo: dopo il matrimonio si sarebbero trasferiti in un'altra città dell'Impero, e la mostruosa suocera sarebbe stata rilegata a pasque e natali. Ulrico aveva infatti deciso, col pieno sostegno di Pancrazia e di sua figlia Clarabella (che, fortunatamente e piuttosto inaspettatamente, andava molto d'accordo con la fidanzata del padre), di accettare un avanzamento di carriera che lo avrebbe costretto a trasferirsi. Il pensiero di questo futuro lontano da vecchie invadenti gli diede la spinta per scrollarsi di dosso la paura di disperazione, ed acconsentì ad aiutare la sua amata nella scelta degli inviti.
+Il pover'uomo acconsentì. Era contento che la sua fidanzata fosse felice --- un po' meno per l'avere quell'impiastro sempre dietro, ma per la sua Pancrazia avrebbe sopportato. E poi, si trattava soltanto di dover stringere i denti in un ultimo, eroico sfrozo: dopo il matrimonio si sarebbero trasferiti in un'altra città dell'Impero, e la mostruosa suocera sarebbe stata rilegata a pasque e natali. Ulrico aveva infatti deciso, col pieno sostegno di Pancrazia e di sua figlia Clarabella (che, fortunatamente e piuttosto inaspettatamente, andava molto d'accordo con la fidanzata del padre), di accettare un avanzamento di carriera che lo avrebbe costretto a trasferirsi. Il pensiero di questo futuro lontano da vecchie invadenti gli diede la spinta per scrollarsi di dosso la pura disperazione (c'era un "paura di disperazione", non mi tornava), ed acconsentì ad aiutare la sua amata nella scelta degli inviti.
 
 Dopo la fatidica scelta, costata due ulteriori ore di fatica e tempo, fidanzati e suocera si appropinquarono alla cassa.
 
@@ -38,7 +38,7 @@ Si affacciò alla porta e ascoltò con la massima attenzione.
 
 *...Ué guagliò, bell’ st’orolog’...* 
 
-Si congelò sul posto: quel segnale poteva voler dire solo una cosa --- una la cosa che non gli piaceva per niente.
+Si congelò sul posto: quel segnale poteva voler dire solo una cosa --- una cosa che non gli piaceva per niente.
 
 Pancrazia si stava già esibendo in un'ammirevole sequela di maledizioni e bestemmie; era più sveglia di Ulrico, aveva già capito cosa sarebbe successo di lì a poco. Persino il mostr- la best- la suocera stava già dando prova della sua antipatia esibendosi in un collaudato *TE-L-AVEVO-DETTO-DI-NON-ANDARE-OGGI*.
 
@@ -46,14 +46,14 @@ Le terribili parole continuarono a rimbombare nell'aria.
 
 *...Ué guagliò, bell’ st’orolog’...* 
 
-L'infausta cantilena annunciava l'inizio di un'altra *belissima* trovata dell'Imperatore.
+L'infausta cantilena annunciava l'inizio di un'altra *bellissima* trovata dell'Imperatore.
 
 <br>
 <p style="text-align: center;">
-<i>Legge Bizzarra n.1106 del 28 brumaio, anno 27</i><br>
+<i>Legge Bizzarra n.1106 del 38 brumaio, anno 27</i><br>
 <b>DISPOSIZONI SULL'INVERSIONE NORMATIVA</b><br>
 <br>
-<i>Per ogni cittadino che ode il segnale n.316* tramite sistema IBS**, l'efficacia delle norme definite nella Legge Ordinaria, sia inerenti a prescrizioni che a divieti, è invertita fino alle ore 3 della mattina immediatamente successiva.</i><br>
+<i>Per ogni cittadino che ode il segnale n.316* tramite sistema IBS**, l'efficacia delle norme definite nella Legge Ordinaria, sia inerenti a prescrizioni che a divieti, è invertita fino alle ore 3:00 della mattina immediatamente successiva.</i><br>
 <br>
 <i>*(ref. Libro dei Segnali Bizzarri, sez. 3 - Inneschi per Comportamenti a Tempo Limitato)</i><br>
 <i>**(ref. Codice Civile, art.9666 - Imperial Broadcasting System&trade;)</i></p>
@@ -81,7 +81,7 @@ Lui e Pancrazia schizzarono su per le rampe che rimanevano e accorsero al pianer
 
 Pancrazia si appostò al lato della porta e si portò un indice alla bocca, segnlando ad Ulrico di fare silenzio. Un silenzioso conto alla rovescia con le dita, e con spaventosa irruenza aprì la porta con un calcio e comandò con voce autoritaria: «MANI IN ALTO! SONO ARMATA! MOLLA LA RAGAZZA E NESSUNO SI FARA' MALE!»
 
-La scena che si parò davanti all'ardita Pancrazia le fece rompere il personaggio facendole scappare una bestemmia. Clarabella se ne stava appollaiata su di un tabolo con un badile in mano, evidentemente pronta ad attaccare, mentre un tizio enorme condivideva il pavimento con parte del suo sangue.
+La scena che si parò davanti all'ardita Pancrazia le fece rompere il personaggio facendole scappare una bestemmia. Clarabella se ne stava appollaiata su di un tavolo con un badile in mano, evidentemente pronta ad attaccare, mentre un tizio enorme condivideva il pavimento con parte del suo sangue.
 
 «Silenzio!» ammonì la ragazza, brandendo il badile contro di loro. «Gli ho dato una bella tonfata nel capo, ma se si sveglia che si fa?»
 
