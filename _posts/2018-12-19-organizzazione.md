@@ -48,11 +48,14 @@ Le terribili parole continuarono a rimbombare nell'aria.
 
 L'infausta cantilena annunciava l'inizio di un'altra *belissima* trovata dell'Imperatore.
 
-**Legge Bizzarra n.1106 del 28 brumaio, anno 27**
-
-**DISPOSIZONI SULL'INVERSIONE NORMATIVA**
-
-**Per ogni cittadino che ode il segnale n.316 (ref. Libro dei Segnali Bizzarri, sez. 3 - Inneschi per Comportamenti a Tempo Limitato), l'efficacia delle norme definite nella Legge Ordinaria, sia inerenti a prescrizioni che a divieti, è invertita fino alle ore 3 della mattina immediatamente successiva.**
+<p style="text-align: center;">
+<i>Legge Bizzarra n.1106 del 28 brumaio, anno 27</i><br>
+<b>DISPOSIZONI SULL'INVERSIONE NORMATIVA</b><br>
+<br>
+<i>Per ogni cittadino che ode il segnale n.316* tramite sistema IBS**, l'efficacia delle norme definite nella Legge Ordinaria, sia inerenti a prescrizioni che a divieti, è invertita fino alle ore 3 della mattina immediatamente successiva.</i><br>
+<br>
+<i>*(ref. Libro dei Segnali Bizzarri, sez. 3 - Inneschi per Comportamenti a Tempo Limitato)</i><br>
+<i>**(ref. Codice Civile, art.9666 - Imperial Broadcasting System&trade;)</i></p>
 
 Le leggi al rovescio, un perfetto coronamento di una perfetta giornata di merda.
 
