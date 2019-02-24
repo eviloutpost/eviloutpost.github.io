@@ -6,9 +6,9 @@ display: 5
 ---
 Ulrico non ne poteva più: lui e Pancrazia stavano girovagando per quel maledetto negozio da almeno tre ore. La ragazza era euforica, ma il povero Ulrico aveva passato l'ultima mezz'ora a immaginare modi per togliersi la vita. 
 
-«Oddio, *questa* è perfetto...!» cinguettò Pancrazia, richiamando l'attenzione del suo compagno. 
+«Oddio, *questa* è perfetta...!» cinguettò Pancrazia, richiamando l'attenzione del suo compagno. 
 
-«Si, tesoro, *quella* è perfetto», gemette Ulrico, sull'orlo di una crisi. «Come quella di prima, e quella prima ancora... in nome del Cristo, possiamo scegliere e andarcene?»
+«Si, tesoro, *quella* è proprio perfetta», gemette Ulrico, sull'orlo di una crisi. «Come quella di prima, e quella prima ancora... in nome del Cristo, possiamo scegliere e andarcene?»
 
 Una voce sgradevole si intromise: «Non parlare così alla mia *bambina!* Scegliere le bomboniere è *FON-DA-MEN-TA-LE!*» 
 
