@@ -7,9 +7,9 @@ display: 3
 
 Alle cinque del mattino, il mio respiro si è fermato: è calato il silenzio. Mi mangio le unghie, pronto a fuggire dall'uscita di emergenza --- dov'è il domani?
 
-Il giorno è arrivato.
+Il giorno... è arrivato.
 
-<div style="font-style: italic; margin-top: 24px; margin-bottom: 24px; padding-left: 48px;" >
+<div style="font-style: italic; margin-top: 36px; margin-bottom: 24px; padding-left: 48px;" >
 Gino Verdino è un verde bambino <br/>
 Niente poteri, cazzo piccino <br/>
 Bruto Forzuto con gran compassione <br/>
