@@ -22,19 +22,25 @@ permalink: /authors/
 {% endcapture %}
 
 {% capture justified %}
+  <hr>
   <ul>
     {% for author in site.authors %}
       {% unless author.anonymous %}
       <br>
-      <img src="img/{{ author.image }}" style="float: left; width:128px; height:128px; margin-right:16px; margin-top:32px; margin-bottom:8px;">
-      <h3 class="donthyphenate" style="display: flex;"><a href="{{ author.url }}">{{ author.name }}</a></h3>
-      <h4 class="donthyphenate" style="text-align: left;">{{ author.position }}</h4>
-      {% assign truncatedContent = '' %}
-      {% assign paragraphs = author.content | split:'</p>' %}
-      {% for paragraph in paragraphs limit:1 %}
-        {{ truncatedContent | append: paragraph }}
-        {{ truncatedContent | append: '</p>' }}
-      {% endfor %}
+      <div style="margin-left: -40px">
+        <figure style="float: left; margin-left: 0px; margin-right: 25px; margin-bottom: -15px; margin-top: -5px;">
+          <img src="img/{{ author.image }}" style="width:128px; height:128px;">
+          <figcaption style="margin-top: -10px;"><h3 class="donthyphenate"><a href="{{ author.url }}">{{ author.name }}</a></h3></figcaption>
+        </figure>
+        <div style="margin-top: 45px;">
+        {% assign truncatedContent = '' %}
+        {% assign paragraphs = author.content | split:'</p>' %}
+        {% for paragraph in paragraphs limit:2 %}
+          {{ truncatedContent | append: paragraph }}
+          {{ truncatedContent | append: '</p>' }}
+        {% endfor %}
+        </div>
+      </div>
       {% endunless %}
     {% endfor %}
   </ul>
