@@ -23,6 +23,6 @@ Verso una certa età recupera in parte la ragione, e comincia a fare finalmente 
 
 Poi la perde di nuovo, ed eccoci qui.
 
-Sul fronte musicale, *{{ page.nickname }}* è un vulcano di brutte idee. Ha autoprodotto diversi pezzi, senza mai focalizzarsi su un genere e spaziando senza decoro nei più vasti reami dell'assurdo. Questa, però, è un altra storia.
+Sul fronte musicale, *{{ page.nickname }}* è un vulcano di brutte idee. Ha autoprodotto diversi pezzi, senza mai focalizzarsi su un genere e spaziando senza decoro nei più vasti reami dell'assurdo. Questa, però, è un'altra storia.
 
 [soundcloud]: https://soundcloud.com/user-326240122
