@@ -26,9 +26,12 @@ layout: default
   {% endif %}
 </div>
 
-<p style="text-align: justify;">
-{{ content }}
-</p>
+<style>
+    p {
+        text-align: justify;
+    }
+  </style>
+{{ content | markdownify }}
 
 <br>
 
