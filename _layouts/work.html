@@ -3,10 +3,10 @@ layout: titled
 ---
 
 <blockquote class="quote">
-  <p>{{ page.caption | markdownify }}</p>
+  {{ page.caption | markdownify }}
 </blockquote>
 
-<div style="text-align: justify;"> {{ page.content }} </div>
+<div style="text-align: center;"> {{ page.content }} </div>
 
 <div class="catalogue">
     {% for chapter in site.works %}
@@ -20,7 +20,7 @@ layout: titled
             {% assign truncatedContent = '' %}
             {% assign paragraphs = chapter.content | newline_to_br | strip_newlines | split:'<br />' %}
             {% for paragraph in paragraphs limit: chapter.display %}
-              {{ truncatedContent | append: paragraph }}
+              {{ truncatedContent | append: paragraph | markdownify }}
             {% endfor %}
           </div>
   
