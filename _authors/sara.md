@@ -1,8 +1,6 @@
 ---
 name: Sara Carusi
-gender: a
 nickname: aarde
-description: la terra che ti sotterra
 position: Araldo del Male
 instagram: https://www.instagram.com/facilis_descensusaverni/
 image: sara.png
