@@ -11,7 +11,7 @@ La cerimonia, come il successivo banchetto, si era svolta nel migliore dei modi,
 
 «Tesooooooooroooo...» cinguettò una voce, risvegliando Ulrico dal dormiveglia in cui era caduto. Si girò verso la voce della sua Pancrazia e quasi cadde dal letto: sua moglie era praticamente nuda, pronta per la loro prima notte di nozze.
 
-Ulrico si stava esibendo in una faccia eccitata degna del più demenziale sketch fantozziano, quando sentì bussare alla porta, infastidito andò ad aprire, mentre la sua docle metà andava a nascondersi in bagno imbarazzata.
+Ulrico si stava esibendo in una faccia eccitata degna del più demenziale sketch fantozziano, quando sentì bussare alla porta, infastidito andò ad aprire, mentre la sua dolce metà andava a nascondersi in bagno imbarazzata.
 Quando aprì la porta si trovò davanti un tizio losco, capelli lunghi e barbetta, di età compresa tra i venti e i trent'anni e Ulrico subitò si infastidì: cosa cavolo voleva adesso il cameriere dell'albergo?! 
 Stava per aprire bocca e mandarlo via in malo modo quando Pancrazia uscì dal bagno e squittì «... Imperatore!» facendo una graziosa riverenza. 
 
@@ -30,4 +30,11 @@ L'Inquietante Imperiale Figuro, come lo rinominò Ulrico nella sua testa, contin
 
 «Eh?» Si riscosse l'Imperatore «Ah! Si, giusto! Allora, siete novelli sposi no? Quindi tu» disse indicando Ulrico «Fuori, che conosci la legge, la prima notte va di diritto all'Imperatore!» esclamò tutto contento.
 
-Ulrico e Pancrazia eruppero simultaneamente in un'enorme bestemmia, il primo era incredulo, "davvero esisteva una legge simile? doveva essere uno scherzo!" pensava, mentre la seconda, resasi conto della veridicità delle parole dell'Imperatore, 
+Ulrico e Pancrazia eruppero simultaneamente in un'enorme bestemmia, il primo era incredulo, "davvero esisteva una legge simile? doveva essere uno scherzo!" pensava, mentre la seconda, resasi conto della veridicità delle parole dell'Imperatore, si apprestò mogia mogia a raccattare le carabattole du Ulrico per poi mandarlo a dormire da qualche altra parte.
+
+«Su, su Ulrichino mio, non ti perdere d'animo, vedrai sarà velocissimo.. *ehm* Vedrai che tra un paio d'ore potrai tornare...» sussurrava Pancrazia al povero Ulrico, ormai rassegnato.
+
+Con Ulrico ormai scomparso dietro alla porta Pancrazia girò su se stessa alla ricerca dell'Imperatore, che adesso stava inquietantemente curiosando nelle cianfrusaglie dei neo-coniugi, continuando a canticchiare la strana litania. Pancrazia con mestizia si diresse verso il letto e richiamò l'attenzione dell'Imperatore: se ormai era obbligata passare la sua notte di nozze con quel tizio, beh che fosse una cosa cosa veloce!
+«... Signor Imperatore..?»
+
+
